@@ -6,6 +6,8 @@ Project for the Udacity [VR Developer Nanodegree](http://udacity.com/vr) program
 - Submission by: Jordan Dobson
 - Summary: I updated Coin Toss to still allow for over and under shooting so you have to hit it right with values from the Navigation Quiz. The Wheel values are updated appropriately for their width as well as the plinko game was updated to move the puck side to side to 0.7 which is shown when succesfully landing a coin in coin toss. The Bear is also moved so it doesn't land on the camera. My name is also set to fit within the boundaries of the game board.
 
+[Download Project Files](https://drive.google.com/file/d/1HcxBh31tauIMbgCF1WiUx1n5YedDXUzT/view?usp=sharing)
+
 
 ### Versions Used
 - [Unity LTS Release 2017.4.15](https://unity3d.com/unity/qa/lts-releases?version=2017.4)
